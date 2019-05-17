@@ -10,7 +10,7 @@ For this assignment you will be demonstrating your skills of HTML Creation with 
 The following requirements must be met in order to complete the assignment successfully: 
 
 
-1. Download the [Dominoes starter files](https://github.com/MTM6230/dominoes/archive/master.zip). Inside the starter files will be `index.html`, `style.css` and `index.js`. All the changes will be made to the `index.js` file. **Do NOT change the `index.html` or `style.css` files.**
+1. Download the [Dominoes starter files](https://github.com/imdac/mtm6302-dominoes/archive/master.zip). Inside the starter files will be `index.html`, `style.css` and `index.js`. All the changes will be made to the `index.js` file. **Do NOT change the `index.html` or `style.css` files.**
 2. Using the `template literals`, `arrays`, `for loops`, and techniques you have learned, create 100 ***random*** dominoes and placing inside of the dominoes container (`<div class="dominoes" id="dominoes">...</div>`) using only JavaScript.
 3. Once completed, submit the `index.js` file to the **Dominoes** assignment on Brightspace.
 
